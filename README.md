@@ -17,6 +17,10 @@ To explain what insurance is in simple terms: it’s a way to protect your loved
 - Top Open Opportunity
 - Dashboard Interaction <a href = "![Insurance Analyst Dashboard](https://github.com/user-attachments/assets/06ce87d9-0866-4008-9253-8395855aac2c)"> View Dashboard </a>
 
+## Dashbord
+![Insurance Analyst Dashboard](https://github.com/user-attachments/assets/eb2a19d5-8023-4ab8-983d-42f21e32bc1a)
+
+
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
 - Make sure data is consistent and clean with respect to data type, data format and values used.
