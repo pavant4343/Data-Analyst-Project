@@ -23,5 +23,16 @@ To explain what insurance is in simple terms: it’s a way to protect your loved
 - Created pivot table accprding to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
- ## Dashbord 
- ![Insurance Analyst Dashboard](https://github.com/user-attachments/assets/0a277afd-ac4d-4e0f-85d0-8c91d60e7c99)
+## Problem Faced
+- EXCEL: Making the Slicers work, Cleaning the data and merged.Connecting the slicers to all the visuals.
+- POWERBI: DAX calculations.
+- TABLEAU: Making funnel chart.
+- SQL: Importing the data and changing the data types Of columns correctly.A few times, I had to import because the source file didn’t have an underscore in column names.
+
+## Conclusion
+- These charts are tracking performance in three areas: Cross Sell, New Sales, and Renewals.
+- The chart visually indicates that the majority of policies are currently active, but there is still a significant portion that remains inactive.
+- The dashboard provides an insightful look at sales performance across three key areas- Cross Sell, New Sales, and Renewals.
+- While the renewals section has performed exceptionally well, cross-sell and new sales are lagging behind targets.
+
+
